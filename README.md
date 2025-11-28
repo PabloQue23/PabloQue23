@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Pablo Quesada Aguayo. Soy estudiante de un Ciclo Formativo Superior de Desarrollo de Aplicaciones Web. 😄😄</p>
+<p align="left">Mi nombre es Pablo Quesada Aguayo. Soy estudiante de un Ciclo Formativo Superior de Desarrollo de Aplicaciones Web en el IES Fernando III.  😄😄</p>
 
 ###
 
